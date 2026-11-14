@@ -1,0 +1,17 @@
+[2026-11-14 16:06:12] [INFO] Operación 1 exitosa: C001
+[2026-11-14 16:06:12] [ADVERTENCIA] Operación 2 controlada: Email inválido: 'carlos-sin-arroba.com'.
+[2026-11-14 16:06:12] [ADVERTENCIA] Op 4 controlada: La tarifa base no puede ser negativa.
+[2026-11-14 16:06:12] [INFO] Reserva R001 confirmada con éxito para el cliente Ana Pérez.
+[2026-11-14 16:06:12] [ADVERTENCIA] Op 8 controlada: Duración inválida: 500.0 horas. Debe estar entre 1 y 168.
+[2026-11-14 16:06:12] [INFO] Reserva R003 confirmada con éxito para el cliente Beatriz Gomez.
+[2026-11-14 16:06:12] [ADVERTENCIA] Reserva R001 cancelada.
+[2026-11-14 16:06:12] [INFO] Operación 10 completada: Simulación finalizada de forma estable.
+[2026-11-14 16:10:40] [INFO] Operación 1 exitosa: C001
+[2026-11-14 16:10:40] [ADVERTENCIA] Operación 2 controlada: Email inválido: 'carlos-sin-arroba.com'.
+[2026-11-14 16:10:40] [ADVERTENCIA] Op 4 controlada: La tarifa base no puede ser negativa.
+[2026-11-14 16:10:40] [INFO] Reserva R001 confirmada con éxito para el cliente Barbara Rojas.
+[2026-11-14 16:10:40] [ADVERTENCIA] Op 8 controlada: Duración inválida: 500.0 horas. Debe estar entre 1 y 168.
+[2026-11-14 16:10:40] [INFO] Reserva R003 confirmada con éxito para el cliente Carmen.
+[2026-11-14 16:10:40] [ADVERTENCIA] Reserva R001 cancelada.
+[2026-11-14 16:10:40] [INFO] Operación 10 completada: Simulación finalizada de forma estable.
+
